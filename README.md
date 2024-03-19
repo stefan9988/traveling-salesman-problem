@@ -1,4 +1,4 @@
-# Traveling-Salesman-Problem-using-Genetic-Algorithm
-Cilj ovog projekta je pronaći najkraći mogući put koji povezuje skup gradova, pri čemu se svaki grad posećuje samo jednom, a putovanje se završava u početnom gradu. 
-Traži se najkraće rastojanje između 2 grada i redosled obilazaka gradova (kombinatorni problem).
-Problem je rešen uz pomoć genetskog algoritma.
+# Traveling Salesman Problem using Genetic Algorithm
+The goal of this project is to find the shortest possible path connecting a set of cities, where each city is visited only once, and the journey ends in the starting city. 
+We are looking for the shortest distance between 2 cities and the order of visiting the cities (combinatorial problem). 
+The problem was solved with the help of a genetic algorithm.
